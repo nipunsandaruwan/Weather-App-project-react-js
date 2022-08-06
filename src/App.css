@@ -1,0 +1,8 @@
+.App{
+    width: 700px;
+    background-color:navy;
+    margin: 50px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
